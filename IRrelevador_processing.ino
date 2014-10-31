@@ -48,4 +48,5 @@ void loop() {
     irrecv.resume(); // Receive the next value    
   }
   delay(100); //Espera 100 microsegundos para volver a hacerlo
+  
 }
